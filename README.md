@@ -31,9 +31,11 @@ Nissan Leaf
 
 State with Most Vehicles: (unspecified but dominated by a state with 150,082 vehicles)
 
-#**Other Contributors:**
+**Contributors:**
 
 Anirban Kundu(https://github.com/ANIRBAN-code-code)
+
+Arin Ganguly(https://github.com/arin-ganguly)
 
 Ankan Das(https://github.com/Ankandas2004)
 
