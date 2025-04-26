@@ -30,3 +30,12 @@ Tesla Model 3
 Nissan Leaf
 
 State with Most Vehicles: (unspecified but dominated by a state with 150,082 vehicles)
+
+**Other Contributors:**
+Anirban Kundu(https://github.com/ANIRBAN-code-code)
+
+Ankan Das(https://github.com/Ankandas2004)
+
+Sandipan Rakshit(https://github.com/sandipanrakshit34)
+
+Abhijit Dey(https://github.com/IamAbhijit2004)
