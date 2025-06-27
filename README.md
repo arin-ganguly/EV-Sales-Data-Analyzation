@@ -1,6 +1,11 @@
 # EV-Sales-Data-Analyzation
 This project focuses on the analysis and visualization of Electric Vehicle (EV) data to uncover key insights about EV adoption trends across different states, models, and manufacturers.
 
+-**Dashboard**
+
+![Dashboard (1)](https://github.com/user-attachments/assets/da6209ab-1427-4fcc-952a-0b8f57677e26)
+
+
 📈 **Key Insights**
 
 Total Vehicles Analyzed: 150,413
