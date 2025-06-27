@@ -3,7 +3,8 @@ This project focuses on the analysis and visualization of Electric Vehicle (EV) 
 
 -**Dashboard**
 
-![Dashboard (1)](https://github.com/user-attachments/assets/da6209ab-1427-4fcc-952a-0b8f57677e26)
+
+![Dashboard 1](https://github.com/user-attachments/assets/a48efcfe-9443-43fd-866a-9f16a34a53b5)
 
 
 📈 **Key Insights**
